@@ -1,0 +1,21 @@
+{
+  "name": "moe-codious",
+  "displayName": "moe-codious",
+  "description": "Speykious's Moe Codious color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moe Codious",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moe-codious-color-theme.json"
+      }
+    ]
+  }
+}
