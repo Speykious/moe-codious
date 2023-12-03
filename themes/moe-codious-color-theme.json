@@ -137,9 +137,20 @@
 	"tokenColors": [
 		{
 			"scope": [
+				"variable",
+			],
+			"settings": {
+				"foreground": "#fcffe4",
+			}
+		},
+		{
+			"scope": [
 				"comment",
 				"punctuation.semi",
+				"punctuation.terminator.statement",
 				"punctuation.eq.toml",
+				"punctuation.squarebracket",
+				"markup.quote.markdown",
 			],
 			"settings": {
 				"foreground": "#fcffe480"
@@ -148,8 +159,12 @@
 		{
 			"scope": [
 				"punctuation.comma",
+				"punctuation.separator.comma",
 				"punctuation.definition.table.inline.toml",
+				"punctuation.definition.tag",
+				"punctuation.accessor",
 				"punctuation.separator.dot.toml",
+				"punctuation.separator.key-value",
 			],
 			"settings": {
 				"foreground": "#fcffe4c0"
@@ -165,7 +180,9 @@
 		},
 		{
 			"scope": [
-				"keyword"
+				"keyword",
+				"keyword.operator.new",
+				"markup.underline.link.markdown",
 			],
 			"settings": {
 				"foreground": "#ff79b5"
@@ -174,14 +191,24 @@
 		{
 			"scope": [
 				"keyword.operator",
+				"punctuation.separator.pointer-access",
+				"keyword.operator.comparison.perl",
 			],
 			"settings": {
 				"foreground": "#ffffaaaa",
+				"fontStyle": "",
 			}
 		},
 		{
 			"scope": [
 				"keyword.operator.math",
+				"keyword.operator.arithmetic",
+				"keyword.operator.logical",
+				"keyword.operator.comparison",
+				"keyword.operator.relational",
+				"keyword.operator.increment",
+				"keyword.operator.conditional",
+				"keyword.operator.ternary",
 			],
 			"settings": {
 				"foreground": "#ffaa20",
@@ -191,6 +218,10 @@
 		{
 			"scope": [
 				"constant",
+				"variable.other.constant",
+				"variable.other.object.property",
+				"variable.other.env",
+				"support.variable.property",
 			],
 			"settings": {
 				"foreground": "#ff98b8",
@@ -198,10 +229,14 @@
 		},
 		{
 			"scope": [
-				"constant.numeric"
+				"constant.numeric",
+				"constant.language.bool",
+				"constant.language.boolean",
+				"constant.language.java",
+				"constant.language.json",
 			],
 			"settings": {
-				"foreground": "#ffaa20",
+				"foreground": "#ffa358",
 			}
 		},
 		{
@@ -222,7 +257,18 @@
 		},
 		{
 			"scope": [
+				"entity.name.section.markdown",
+				"punctuation.definition.heading.markdown",
+			],
+			"settings": {
+				"foreground": "#41ffd5",
+				"fontStyle": "bold",
+			}
+		},
+		{
+			"scope": [
 				"storage.type.java",
+				"entity.other.inherited-class",
 			],
 			"settings": {
 				"foreground": "#ffa34d",
@@ -231,6 +277,8 @@
 		{
 			"scope": [
 				"entity.name.type.numeric",
+				"storage.type.primitive",
+				"markup.italic.markdown",
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -247,7 +295,26 @@
 		},
 		{
 			"scope": [
-				"entity.name.function"
+				"variable.other.object",
+			],
+			"settings": {
+				"foreground": "#ffffca",
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.annotation",
+				"storage.type.annotation",
+			],
+			"settings": {
+				"foreground": "#ffffaa",
+				"fontStyle": "bold",
+			}
+		},
+		{
+			"scope": [
+				"entity.name.function",
+				"support.function",
 			],
 			"settings": {
 				"foreground": "#6acbff"
@@ -255,7 +322,8 @@
 		},
 		{
 			"scope": [
-				"variable.language.self"
+				"variable.language.self",
+				"markup.bold.markdown",
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -263,7 +331,6 @@
 		},
 		{
 			"scope": [
-				"meta.interpolation",
 				"storage.modifier.mut.rust",
 				"support.type.property-name.table.toml",
 			],
@@ -273,7 +340,44 @@
 		},
 		{
 			"scope": [
+				"meta.interpolation",
+			],
+			"settings": {
+				"foreground": "#feaa9a",
+			}
+		},
+		{
+			"scope": [
+				"entity.name.tag.yaml",
+				"variable.other.readwrite.global.perl",
+				"variable.other.assignment.shell",
+				"variable.other.normal.shell",
+				"support.type.property-name",
+				"support.type.primitive",
+				"entity.other.attribute-name",
+				"punctuation.definition.interpolation",
+				"punctuation.definition.lifetime",
+				"punctuation.definition.variable.perl",
+				"punctuation.definition.variable.shell",
+				"entity.name.type.lifetime",
+			],
+			"settings": {
+				"foreground": "#ff877c",
+			}
+		},
+		{
+			"scope": [
+				"entity.name.tag",
+			],
+			"settings": {
+				"foreground": "#ff3978",
+			}
+		},
+		{
+			"scope": [
 				"keyword.operator.borrow.and",
+				"keyword.operator.dereference",
+				"variable.other.predefined.perl",
 			],
 			"settings": {
 				"foreground": "#ff877c",
@@ -282,6 +386,8 @@
 		},
 		{
 			"scope": [
+				"meta.preprocessor.macro.c",
+				"entity.name.function.preprocessor.c",
 				"entity.name.function.macro",
 				"keyword.operator.question.rust",
 			],
