@@ -10,6 +10,9 @@
 		// editor
 		"editor.background": "#261d29",
 		"editor.foreground": "#d4d4d4",
+		// editor group header
+		"editorGroupHeader.tabsBackground": "#332c32",
+		"editorGroupHeader.tabsBorder": "#0e001480",
 		// ports
 		"ports.iconRunningProcessForeground": "#369432",
 		// sidebar
@@ -31,6 +34,7 @@
 		"tab.border": "#0e001440",
 		"tab.inactiveBackground": "#332c32",
 		"tab.lastPinnedBorder": "#cccccc33",
+		"tab.unfocusedActiveBorder": "#261d29",
 	},
 	"tokenColors": [
 		{

@@ -2,8 +2,11 @@ colors {
     --background-dark: #0e0014;
     --background: #261d29;
     --background-light: #332c32;
+
     --spey-green: #05FFD5;
     --spey-red: #FF0051;
     --spey-pink: #ff5fa7;
     --spey-pink-dark: #b64477;
+
+    --tab-border: #0e001440;
 }
