@@ -1,5 +1,7 @@
+# Action Bar
 - actionBar.toggledBackground
 
+# Activity Bar
 - activityBar.activeBackground
 - activityBar.activeBorder
 - activityBar.activeFocusBorder
@@ -9,23 +11,29 @@
 - activityBar.foreground
 - activityBar.inactiveForeground
 
+# Activity Bar Badge
 - activityBarBadge.background
 - activityBarBadge.foreground
 
+# Badge
 - badge.background
 - badge.foreground
 
+# Banner
 - banner.background
 - banner.foreground
 - banner.iconForeground
 
+# Breadcrumb
 - breadcrumb.activeSelectionForeground
 - breadcrumb.background
 - breadcrumb.focusForeground
 - breadcrumb.foreground
 
+# Breadcrumb Picker
 - breadcrumbPicker.background
 
+# Button
 - button.background
 - button.border
 - button.foreground
@@ -35,6 +43,7 @@
 - button.secondaryHoverBackground
 - button.separator
 
+# Charts
 - charts.blue
 - charts.foreground
 - charts.green
@@ -44,20 +53,24 @@
 - charts.red
 - charts.yellow
 
+# Chat
 - chat.avatarBackground
 - chat.avatarForeground
 - chat.requestBorder
 - chat.slashCommandBackground
 - chat.slashCommandForeground
 
+# Checkbox
 - checkbox.background
 - checkbox.border
 - checkbox.foreground
 - checkbox.selectBackground
 - checkbox.selectBorder
 
+# Clangd
 - clangd.inactiveRegions.background
 
+# Command Center
 - commandCenter.activeBackground
 - commandCenter.activeBorder
 - commandCenter.activeForeground
@@ -68,22 +81,28 @@
 - commandCenter.inactiveBorder
 - commandCenter.inactiveForeground
 
+# Comments View
 - commentsView.resolvedIcon
 - commentsView.unresolvedIcon
 
+# Contrast Active Border
 - contrastActiveBorder
 - contrastBorder
 
+# Debug Console
 - debugConsole.errorForeground
 - debugConsole.infoForeground
 - debugConsole.sourceForeground
 - debugConsole.warningForeground
 
+# Debug Console Input Icon
 - debugConsoleInputIcon.foreground
 
+# Debug Exception Widget
 - debugExceptionWidget.background
 - debugExceptionWidget.border
 
+# Debug Icon
 - debugIcon.breakpointCurrentStackframeForeground
 - debugIcon.breakpointDisabledForeground
 - debugIcon.breakpointForeground
@@ -100,6 +119,7 @@
 - debugIcon.stepOverForeground
 - debugIcon.stopForeground
 
+# Debug Token Expression
 - debugTokenExpression.boolean
 - debugTokenExpression.error
 - debugTokenExpression.name
@@ -107,6 +127,7 @@
 - debugTokenExpression.string
 - debugTokenExpression.value
 
+# Debug Tool Bar
 - debugToolBar.background
 - debugToolBar.border
 - debugView.exceptionLabelBackground
@@ -115,8 +136,10 @@
 - debugView.stateLabelForeground
 - debugView.valueChangedHighlight
 
+# Description Foreground
 - descriptionForeground
 
+# Diff Editor
 - diffEditor.border
 - diffEditor.diagonalFill
 - diffEditor.insertedLineBackground
@@ -131,19 +154,24 @@
 - diffEditor.unchangedRegionBackground
 - diffEditor.unchangedRegionForeground
 
+# Diff Editor Gutter
 - diffEditorGutter.insertedLineBackground
 - diffEditorGutter.removedLineBackground
 
+# Diff Editor Overview
 - diffEditorOverview.insertedForeground
 - diffEditorOverview.removedForeground
 
+# Disabled Foreground
 - disabledForeground
 
+# Dropdown
 - dropdown.background
 - dropdown.border
 - dropdown.foreground
 - dropdown.listBackground
 
+# Editor
 - editor.background
 - editor.findMatchBackground
 - editor.findMatchBorder
@@ -181,8 +209,10 @@
 - editor.wordHighlightTextBackground
 - editor.wordHighlightTextBorder
 
+# Editor Active Line Number
 - editorActiveLineNumber.foreground
 
+# Editor Bracket Highlight
 - editorBracketHighlight.foreground1
 - editorBracketHighlight.foreground2
 - editorBracketHighlight.foreground3
@@ -191,9 +221,11 @@
 - editorBracketHighlight.foreground6
 - editorBracketHighlight.unexpectedBracket.foreground
 
+# Editor Bracket Match
 - editorBracketMatch.background
 - editorBracketMatch.border
 
+# Editor Bracket Pair Guide
 - editorBracketPairGuide.activeBackground1
 - editorBracketPairGuide.activeBackground2
 - editorBracketPairGuide.activeBackground3
@@ -207,24 +239,30 @@
 - editorBracketPairGuide.background5
 - editorBracketPairGuide.background6
 
+# Editor Code Lens
 - editorCodeLens.foreground
 
+# Editor Comments Widget
 - editorCommentsWidget.rangeActiveBackground
 - editorCommentsWidget.rangeBackground
 - editorCommentsWidget.resolvedBorder
 - editorCommentsWidget.unresolvedBorder
 
+# Editor Cursor
 - editorCursor.background
 - editorCursor.foreground
 
+# Editor Error
 - editorError.background
 - editorError.border
 - editorError.foreground
 
+# Editor Ghost Text
 - editorGhostText.background
 - editorGhostText.border
 - editorGhostText.foreground
 
+# Editor Group
 - editorGroup.border
 - editorGroup.dropBackground
 - editorGroup.dropIntoPromptBackground
@@ -233,11 +271,13 @@
 - editorGroup.emptyBackground
 - editorGroup.focusedEmptyBorder
 
+# Editor Group Header
 - editorGroupHeader.border
 - editorGroupHeader.noTabsBackground
 - editorGroupHeader.tabsBackground
 - editorGroupHeader.tabsBorder
 
+# Editor Gutter
 - editorGutter.addedBackground
 - editorGutter.background
 - editorGutter.commentGlyphForeground
@@ -247,15 +287,18 @@
 - editorGutter.foldingControlForeground
 - editorGutter.modifiedBackground
 
+# Editor Hint
 - editorHint.border
 - editorHint.foreground
 
+# Editor Hover Widget
 - editorHoverWidget.background
 - editorHoverWidget.border
 - editorHoverWidget.foreground
 - editorHoverWidget.highlightForeground
 - editorHoverWidget.statusBarBackground
 
+# Editor Indent Guide
 - editorIndentGuide.activeBackground
 - editorIndentGuide.activeBackground1
 - editorIndentGuide.activeBackground2
@@ -271,10 +314,12 @@
 - editorIndentGuide.background5
 - editorIndentGuide.background6
 
+# Editor Info
 - editorInfo.background
 - editorInfo.border
 - editorInfo.foreground
 
+# Editor Inlay Hint
 - editorInlayHint.background
 - editorInlayHint.foreground
 - editorInlayHint.parameterBackground
@@ -282,27 +327,36 @@
 - editorInlayHint.typeBackground
 - editorInlayHint.typeForeground
 
+# Editor Light Bulb
 - editorLightBulb.foreground
 
+# Editor Light Bulb Auto Fix
 - editorLightBulbAutoFix.foreground
 
+# Editor Line Number
 - editorLineNumber.activeForeground
 - editorLineNumber.dimmedForeground
 - editorLineNumber.foreground
 
+# Editor Link
 - editorLink.activeForeground
 
+# Editor Marker Navigation
 - editorMarkerNavigation.background
 
+# Editor Marker Navigation Error
 - editorMarkerNavigationError.background
 - editorMarkerNavigationError.headerBackground
 
+# Editor Marker Navigation Info
 - editorMarkerNavigationInfo.background
 - editorMarkerNavigationInfo.headerBackground
 
+# Editor Marker Navigation Warning
 - editorMarkerNavigationWarning.background
 - editorMarkerNavigationWarning.headerBackground
 
+# Editor Overview Ruler
 - editorOverviewRuler.addedForeground
 - editorOverviewRuler.background
 - editorOverviewRuler.border
@@ -324,12 +378,15 @@
 - editorOverviewRuler.wordHighlightStrongForeground
 - editorOverviewRuler.wordHighlightTextForeground
 
+# Editor Pane
 - editorPane.background
 - editorRuler.foreground
 
+# Editor Sticky Scroll
 - editorStickyScroll.background
 - editorStickyScrollHover.background
 
+# Editor Suggest Widget
 - editorSuggestWidget.background
 - editorSuggestWidget.border
 - editorSuggestWidget.focusHighlightForeground
@@ -339,27 +396,35 @@
 - editorSuggestWidget.selectedForeground
 - editorSuggestWidget.selectedIconForeground
 
+# Editor Suggest Widget Status
 - editorSuggestWidgetStatus.foreground
 
+# Editor Unicode Highlight
 - editorUnicodeHighlight.background
 - editorUnicodeHighlight.border
 
+# Editor Unnecessary Code
 - editorUnnecessaryCode.border
 - editorUnnecessaryCode.opacity
 
+# Editor Warning
 - editorWarning.background
 - editorWarning.border
 - editorWarning.foreground
 
+# Editor Whitespace
 - editorWhitespace.foreground
 
+# Editor Widget
 - editorWidget.background
 - editorWidget.border
 - editorWidget.foreground
 - editorWidget.resizeBorder
 
+# Error Foreground
 - errorForeground
 
+# Error Lens
 - errorLens.errorBackground
 - errorLens.errorBackgroundLight
 - errorLens.errorForeground
@@ -391,9 +456,11 @@
 - errorLens.warningMessageBackground
 - errorLens.warningRangeBackground
 
+# Extension Badge
 - extensionBadge.remoteBackground
 - extensionBadge.remoteForeground
 
+# Extension Button
 - extensionButton.background
 - extensionButton.foreground
 - extensionButton.hoverBackground
@@ -402,14 +469,17 @@
 - extensionButton.prominentHoverBackground
 - extensionButton.separator
 
+# Extension Icon
 - extensionIcon.preReleaseForeground
 - extensionIcon.sponsorForeground
 - extensionIcon.starForeground
 - extensionIcon.verifiedForeground
 
+# Focus Border
 - focusBorder
 - foreground
 
+# Git Decoration
 - gitDecoration.addedResourceForeground
 - gitDecoration.conflictingResourceForeground
 - gitDecoration.deletedResourceForeground
@@ -423,29 +493,35 @@
 - gitlens.decorations.branchUpToDateForegroundColor
 - icon.foreground
 
+# Inline Chat
 - inlineChat.background
 - inlineChat.border
 - inlineChat.regionHighlight
 - inlineChat.shadow
 
+# Inline Chat Diff
 - inlineChatDiff.inserted
 - inlineChatDiff.removed
 
+# Inline Chat Input
 - inlineChatInput.background
 - inlineChatInput.border
 - inlineChatInput.focusBorder
 - inlineChatInput.placeholderForeground
 
+# Input
 - input.background
 - input.border
 - input.foreground
 - input.placeholderForeground
 
+# Input Option
 - inputOption.activeBackground
 - inputOption.activeBorder
 - inputOption.activeForeground
 - inputOption.hoverBackground
 
+# Input Validation
 - inputValidation.errorBackground
 - inputValidation.errorBorder
 - inputValidation.errorForeground
@@ -456,21 +532,26 @@
 - inputValidation.warningBorder
 - inputValidation.warningForeground
 
+# Interactive
 - interactive.activeCodeBorder
 - interactive.inactiveCodeBorder
 
+# Issues
 - issues.closed
 - issues.newIssueDecoration
 - issues.open
 
+# Keybinding Label
 - keybindingLabel.background
 - keybindingLabel.border
 - keybindingLabel.bottomBorder
 - keybindingLabel.foreground
 
+# Keybinding Table
 - keybindingTable.headerBackground
 - keybindingTable.rowsBackground
 
+# List
 - list.activeSelectionBackground
 - list.activeSelectionForeground
 - list.activeSelectionIconForeground
@@ -495,16 +576,19 @@
 - list.invalidItemForeground
 - list.warningForeground
 
+# List Filter Widget
 - listFilterWidget.background
 - listFilterWidget.noMatchesOutline
 - listFilterWidget.outline
 - listFilterWidget.shadow
 
+# Markdown
 - markdown.extension.editor.codeSpan.background
 - markdown.extension.editor.codeSpan.border
 - markdown.extension.editor.formattingMark.foreground
 - markdown.extension.editor.trailingSpace.background
 
+# Menu
 - menu.background
 - menu.border
 - menu.foreground
@@ -513,10 +597,12 @@
 - menu.selectionForeground
 - menu.separatorBackground
 
+# Menubar
 - menubar.selectionBackground
 - menubar.selectionBorder
 - menubar.selectionForeground
 
+# Merge
 - merge.border
 - merge.commonContentBackground
 - merge.commonHeaderBackground
@@ -525,6 +611,7 @@
 - merge.incomingContentBackground
 - merge.incomingHeaderBackground
 
+# Merge Editor
 - mergeEditor.change.background
 - mergeEditor.change.word.background
 - mergeEditor.changeBase.background
@@ -539,6 +626,7 @@
 - mergeEditor.conflict.unhandledUnfocused.border
 - mergeEditor.conflictingLines.background
 
+# Minimap
 - minimap.background
 - minimap.errorHighlight
 - minimap.findMatchHighlight
@@ -548,14 +636,17 @@
 - minimap.selectionOccurrenceHighlight
 - minimap.warningHighlight
 
+# Minimap Gutter
 - minimapGutter.addedBackground
 - minimapGutter.deletedBackground
 - minimapGutter.modifiedBackground
 
+# Minimap Slider
 - minimapSlider.activeBackground
 - minimapSlider.background
 - minimapSlider.hoverBackground
 
+# Notebook
 - notebook.cellBorderColor
 - notebook.cellEditorBackground
 - notebook.cellHoverBackground
@@ -574,60 +665,79 @@
 - notebook.selectedCellBorder
 - notebook.symbolHighlightBackground
 
+# Notebook Editor Overview Ruler
 - notebookEditorOverviewRuler.runningCellForeground
 
+# Notebook Scrollbar Slider
 - notebookScrollbarSlider.activeBackground
 - notebookScrollbarSlider.background
 - notebookScrollbarSlider.hoverBackground
 
+# Notebook Status Error Icon
 - notebookStatusErrorIcon.foreground
 - notebookStatusRunningIcon.foreground
 - notebookStatusSuccessIcon.foreground
 
+# Notification Center
 - notificationCenter.border
 
+# Notification Center Header
 - notificationCenterHeader.background
 - notificationCenterHeader.foreground
 
+# Notification Link
 - notificationLink.foreground
 
+# Notifications
 - notifications.background
 - notifications.border
 - notifications.foreground
 
+# Notifications Error Icon
 - notificationsErrorIcon.foreground
 - notificationsInfoIcon.foreground
 - notificationsWarningIcon.foreground
 
+# Notification Toast
 - notificationToast.border
 
+# Panel
 - panel.background
 - panel.border
 - panel.dropBorder
 
+# Panel Input
 - panelInput.border
 
+# Panel Section
 - panelSection.border
 - panelSection.dropBackground
 
+# Panel Section Header
 - panelSectionHeader.background
 - panelSectionHeader.border
 - panelSectionHeader.foreground
 
+# Panel Title
 - panelTitle.activeBorder
 - panelTitle.activeForeground
 - panelTitle.inactiveForeground
 
+# Peek View
 - peekView.border
 
+# Peek View Editor
 - peekViewEditor.background
 - peekViewEditor.matchHighlightBackground
 - peekViewEditor.matchHighlightBorder
 
+# Peek View Editor Gutter
 - peekViewEditorGutter.background
 
+# Peek View Editor Sticky Scroll
 - peekViewEditorStickyScroll.background
 
+# Peek View Result
 - peekViewResult.background
 - peekViewResult.fileForeground
 - peekViewResult.lineForeground
@@ -635,59 +745,78 @@
 - peekViewResult.selectionBackground
 - peekViewResult.selectionForeground
 
+# Peek View Title
 - peekViewTitle.background
 - peekViewTitleDescription.foreground
 - peekViewTitleLabel.foreground
 
+# Picker Group
 - pickerGroup.border
 - pickerGroup.foreground
 
+# Ports
 - ports.iconRunningProcessForeground
 
+# Problems Error Icon
 - problemsErrorIcon.foreground
 - problemsInfoIcon.foreground
 - problemsWarningIcon.foreground
 
+# Profile Badge
 - profileBadge.background
 - profileBadge.foreground
 
+# Progress Bar
 - progressBar.background
 
+# Pull Requests
 - pullRequests.closed
 - pullRequests.draft
 - pullRequests.merged
 - pullRequests.notification
 - pullRequests.open
 
+# Quick Input
 - quickInput.background
 - quickInput.foreground
 
+# Quick Input
 - quickInput.list.focusBackground
 
+# Quick Input List
 - quickInputList.focusBackground
 - quickInputList.focusForeground
 - quickInputList.focusIconForeground
 
+# Quick Input Title
 - quickInputTitle.background
 
+# Rust Analyzer
 - rust_analyzer.syntaxTreeBorder
 
+# Sash
 - sash.hoverBorder
 
+# Scrollbar
 - scrollbar.shadow
 
+# Scrollbar Slider
 - scrollbarSlider.activeBackground
 - scrollbarSlider.background
 - scrollbarSlider.hoverBackground
 
+# Search
 - search.resultsInfoForeground
 
+# Search Editor
 - searchEditor.findMatchBackground
 - searchEditor.findMatchBorder
 - searchEditor.textInputBorder
 
+# Selection
 - selection.background
 
+# Settings
 - settings.checkboxBackground
 - settings.checkboxBorder
 - settings.checkboxForeground
@@ -710,25 +839,32 @@
 - settings.textInputBorder
 - settings.textInputForeground
 
+# Side Bar
 - sideBar.background
 - sideBar.border
 - sideBar.dropBackground
 - sideBar.foreground
 
+# Side Bar Section Header
 - sideBarSectionHeader.background
 - sideBarSectionHeader.border
 - sideBarSectionHeader.foreground
 
+# Side Bar Title
 - sideBarTitle.foreground
 
+# Side By Side Editor
 - sideBySideEditor.horizontalBorder
 - sideBySideEditor.verticalBorder
 
+# Simple Find Widget
 - simpleFindWidget.sashBorder
 
+# Sqltools
 - sqltools.currentQueryBg
 - sqltools.currentQueryOutline
 
+# Status Bar
 - statusBar.background
 - statusBar.border
 - statusBar.debuggingBackground
@@ -740,6 +876,7 @@
 - statusBar.noFolderBorder
 - statusBar.noFolderForeground
 
+# Status Bar Item
 - statusBarItem.activeBackground
 - statusBarItem.compactHoverBackground
 - statusBarItem.errorBackground
@@ -766,6 +903,7 @@
 - statusBarItem.warningHoverBackground
 - statusBarItem.warningHoverForeground
 
+# Symbol Icon
 - symbolIcon.arrayForeground
 - symbolIcon.booleanForeground
 - symbolIcon.classForeground
@@ -800,6 +938,7 @@
 - symbolIcon.unitForeground
 - symbolIcon.variableForeground
 
+# Tab
 - tab.activeBackground
 - tab.activeBorder
 - tab.activeBorderTop
@@ -825,6 +964,7 @@
 - tab.unfocusedInactiveForeground
 - tab.unfocusedInactiveModifiedBorder
 
+# Terminal
 - terminal.ansiBlack
 - terminal.ansiBlue
 - terminal.ansiBrightBlack
@@ -855,18 +995,23 @@
 - terminal.selectionForeground
 - terminal.tab.activeBorder
 
+# Terminal Command Decoration
 - terminalCommandDecoration.defaultBackground
 - terminalCommandDecoration.errorBackground
 - terminalCommandDecoration.successBackground
 
+# Terminal Cursor
 - terminalCursor.background
 - terminalCursor.foreground
 
+# Terminal Overview Ruler
 - terminalOverviewRuler.cursorForeground
 - terminalOverviewRuler.findMatchForeground
 
+# Test Explorer
 - testExplorer.errorDecorationBackground
 
+# Testing
 - testing.iconErrored
 - testing.iconFailed
 - testing.iconPassed
@@ -881,37 +1026,47 @@
 - testing.peekHeaderBackground
 - testing.runAction
 
+# Text Block Quote
 - textBlockQuote.background
 - textBlockQuote.border
 
+# Text Code Block
 - textCodeBlock.background
 
+# Text Link
 - textLink.activeForeground
 - textLink.foreground
 
+# Text Preformat
 - textPreformat.background
 - textPreformat.foreground
 
+# Text Separator
 - textSeparator.foreground
 
+# Title Bar
 - titleBar.activeBackground
 - titleBar.activeForeground
 - titleBar.border
 - titleBar.inactiveBackground
 - titleBar.inactiveForeground
 
+# Toolbar
 - toolbar.activeBackground
 - toolbar.hoverBackground
 - toolbar.hoverOutline
 
+# Tree
 - tree.inactiveIndentGuidesStroke
 - tree.indentGuidesStroke
 - tree.tableColumnsBorder
 - tree.tableOddRowsBackground
 
+# Walk Through
 - walkThrough.embeddedEditorBackground
 - walkthrough.stepTitle.foreground
 
+# Welcome Page
 - welcomePage.background
 - welcomePage.progress.background
 - welcomePage.progress.foreground
@@ -919,8 +1074,10 @@
 - welcomePage.tileBorder
 - welcomePage.tileHoverBackground
 
+# Widget
 - widget.border
 - widget.shadow
 
+# Window
 - window.activeBorder
 - window.inactiveBorder

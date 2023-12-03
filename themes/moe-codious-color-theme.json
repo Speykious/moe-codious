@@ -1,22 +1,30 @@
 {
 	"name": "Moe Codious",
 	"colors": {
+		// activity bar
 		"activityBar.background": "#0e0014",
 		"activityBar.foreground": "#ffffff",
 		"activityBar.inactiveForeground": "#ffffff80",
+		// activity bar badge
 		"activityBarBadge.background": "#007acc",
-
+		// editor
 		"editor.background": "#261d29",
 		"editor.foreground": "#d4d4d4",
-		
+		// ports
 		"ports.iconRunningProcessForeground": "#369432",
+		// sidebar
 		"sideBar.background": "#0e0014",
+		// sidebar section header
 		"sideBarSectionHeader.background": "#00000000",
 		"sideBarSectionHeader.border": "#cccccc33",
+		// sidebar title
 		"sideBarTitle.foreground": "#bbbbbb",
+		// status bar
 		"statusBar.background": "#b64477",
+		// status bar item
 		"statusBarItem.remoteBackground": "#16825d",
 		"statusBarItem.remoteForeground": "#ffffff",
+		// tab
 		"tab.activeBackground": "#261d29",
 		"tab.activeBorder": "#261d29",
 		"tab.activeBorderTop": "#05FFD5",
