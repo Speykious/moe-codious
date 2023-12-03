@@ -4,7 +4,7 @@
 		// activity bar
 		"activityBar.background": "#0e0014",
 		"activityBar.foreground": "#ffffff",
-		"activityBar.inactiveForeground": "#ffffff80",
+		"activityBar.inactiveForeground": "#fcffe480",
 		// activity bar badge
 		"activityBarBadge.background": "#ff0051",
 		// button
@@ -18,7 +18,7 @@
 		// editor
 		"editor.background": "#261d29",
 		"editor.findMatchHighlightBackground": "#ffaa20a0",
-		"editor.foreground": "#d4d4d4",
+		"editor.foreground": "#fcffe4",
 		"editor.lineHighlightBackground": "#fcffe41a",
 		"editor.selectionBackground": "#b64477a0",
 		"editor.wordHighlightBackground": "#fcffe420",
@@ -41,13 +41,15 @@
 		"list.focusAndSelectionOutline": "#05ffd5",
 		"list.activeSelectionBackground": "#05ffd560",
 		"list.inactiveSelectionBackground": "#fcffe41a",
-		"list.highlightForeground": "#ff0000",
+		"list.highlightForeground": "#ff5fa7",
 		"list.hoverBackground": "#05ffd527", // WYSI
 		// minimap
 		"minimap.background": "#0e0014",
 		"minimapSlider.background": "#fcffe440",
 		"minimapSlider.hoverBackground": "#fcffe460",
 		"minimapSlider.activeBackground": "#fcffe450",
+		// picker group
+		"pickerGroup.foreground": "#ff5fa7",
 		// ports
 		"ports.iconRunningProcessForeground": "#369432",
 		// scrollbar
