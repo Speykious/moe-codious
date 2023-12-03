@@ -19,8 +19,11 @@
 		"editor.background": "#261d29",
 		"editor.findMatchHighlightBackground": "#ffaa20a0",
 		"editor.foreground": "#d4d4d4",
+		"editor.lineHighlightBackground": "#fcffe41a",
 		"editor.selectionBackground": "#b64477a0",
 		"editor.wordHighlightBackground": "#fcffe420",
+		// editor cursor
+		"editorCursor.foreground": "#ff5fa7",
 		// editor group header
 		"editorGroupHeader.tabsBackground": "#332c32",
 		"editorGroupHeader.tabsBorder": "#0e001480",
