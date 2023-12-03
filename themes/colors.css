@@ -22,5 +22,12 @@ colors {
     --spey-orange: #ffaa20;
     --spey-yellow: #f6ff88;
 
+    --spey-delete: #ff4b82;
+    --spey-modified: #ffcc95;
+
+    --spey-error: #ec5135;
+    --spey-warning: #ffda53;
+    --spey-info: #43bdff;
+
     --tab-border: #0e001440;
 }

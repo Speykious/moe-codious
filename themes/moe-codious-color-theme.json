@@ -10,6 +10,12 @@
 		// button
 		"button.background": "#ff0051",
 		"button.hoverBackground": "#ff0051a0",
+		// diff editor
+		"diffEditor.insertedLineBackground": "#05ffd530",
+		"diffEditor.removedLineBackground": "#ff4b8266",
+		// diff editor gutter
+		"diffEditorGutter.removedLineBackground": "#ff4b821a",
+		"diffEditorGutter.insertedLineBackground": "#05ffd51a",
 		// disabled foreground
 		"disabledForeground": "#fcffe460",
 		// dropdown
@@ -22,11 +28,27 @@
 		"editor.lineHighlightBackground": "#fcffe41a",
 		"editor.selectionBackground": "#b64477a0",
 		"editor.wordHighlightBackground": "#fcffe420",
+		// editor (error, warning, info)
+		"editorError.foreground": "#ec5135",
+		"editorWarning.foreground": "#ffda53",
+		"editorInfo.foreground": "#43bdff",
 		// editor cursor
 		"editorCursor.foreground": "#ff5fa7",
 		// editor group header
 		"editorGroupHeader.tabsBackground": "#332c32",
 		"editorGroupHeader.tabsBorder": "#0e001480",
+		// editor gutter
+		"editorGutter.addedBackground": "#05ffd5ca",
+		"editorGutter.deletedBackground": "#ff4b82ca",
+		"editorGutter.modifiedBackground": "#ffcc95ca",
+		// editor overview ruler
+		"editorOverviewRuler.addedForeground": "#05ffd5ca",
+		"editorOverviewRuler.border": "#00000000",
+		"editorOverviewRuler.deletedForeground": "#ff4b82",
+		"editorOverviewRuler.errorForeground": "#ec5135",
+		"editorOverviewRuler.infoForeground": "#43bdff",
+		"editorOverviewRuler.modifiedForeground": "#ffcc95ca",
+		"editorOverviewRuler.warningForeground": "#ffda53",
 		// editor widget
 		"editorWidget.background": "#332c32",
 		// focus border
@@ -43,6 +65,9 @@
 		"list.inactiveSelectionBackground": "#fcffe41a",
 		"list.highlightForeground": "#ff5fa7",
 		"list.hoverBackground": "#05ffd527", // WYSI
+		// list (error, warning)
+		"list.errorForeground": "#ec5135",
+		"list.warningForeground": "#ffda53",
 		// minimap
 		"minimap.background": "#0e0014",
 		"minimapSlider.background": "#fcffe440",
@@ -52,6 +77,10 @@
 		"pickerGroup.foreground": "#ff5fa7",
 		// ports
 		"ports.iconRunningProcessForeground": "#369432",
+		// problems error icon
+		"problemsErrorIcon.foreground": "#ec5135",
+		"problemsWarningIcon.foreground": "#ffda53",
+		"problemsInfoIcon.foreground": "#43bdff",
 		// scrollbar
 		"scrollbarSlider.background": "#ff5fa780",
 		"scrollbarSlider.hoverBackground": "#ff5fa7a0",
@@ -115,7 +144,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#6A9955"
+				"foreground": "#fcffe460"
 			}
 		},
 		{
