@@ -14,13 +14,15 @@ colors {
     --text-darker: #818172;
     --text-darkest: #5d5d45;
 
-    --spey-green: #05ffd5;
+    --rust: #ff6355;
+
+    --spey-green: #41ffd5;
     --spey-pink: #ff5fa7;
     --spey-pink-dark: #b64477;
     --spey-pink-dark-selection: #b64477a0;
     --spey-red: #ff0051;
     --spey-orange: #ffaa20;
-    --spey-yellow: #f6ff88;
+    --spey-yellow: #ffffaa;
 
     --spey-delete: #ff4b82;
     --spey-modified: #ffcc95;
