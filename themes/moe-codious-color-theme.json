@@ -13,7 +13,7 @@
 		// disabled foreground
 		"disabledForeground": "#fcffe460",
 		// dropdown
-		"dropdown.background": "#3c343cee",
+		"dropdown.background": "#3c343c",
 		"dropdown.border": "#fcffe41a",
 		// editor
 		"editor.background": "#261d29",
