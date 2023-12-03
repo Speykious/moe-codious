@@ -41,6 +41,7 @@
 		"list.focusAndSelectionOutline": "#05ffd5",
 		"list.activeSelectionBackground": "#05ffd560",
 		"list.inactiveSelectionBackground": "#fcffe41a",
+		"list.highlightForeground": "#ff0000",
 		"list.hoverBackground": "#05ffd527", // WYSI
 		// minimap
 		"minimap.background": "#0e0014",
@@ -53,6 +54,8 @@
 		"scrollbarSlider.background": "#ff5fa780",
 		"scrollbarSlider.hoverBackground": "#ff5fa7a0",
 		"scrollbarSlider.activeBackground": "#b64477a0",
+		// selection
+		"selection.background": "#05ffd580",
 		// sidebar
 		"sideBar.background": "#0e0014",
 		// sidebar section header
@@ -73,6 +76,9 @@
 		"tab.inactiveBackground": "#332c32",
 		"tab.lastPinnedBorder": "#cccccc33",
 		"tab.unfocusedActiveBorder": "#261d29",
+		// text link
+		"textLink.foreground": "#ff5fa7",
+		"textLink.activeForeground": "#ff5fa7",
 	},
 	"tokenColors": [
 		{
