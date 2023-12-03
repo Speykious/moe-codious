@@ -6,13 +6,39 @@
 		"activityBar.foreground": "#ffffff",
 		"activityBar.inactiveForeground": "#ffffff80",
 		// activity bar badge
-		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.background": "#ff0051",
+		// button
+		"button.background": "#ff0051",
+		"button.hoverBackground": "#ff0051a0",
+		// disabled foreground
+		"disabledForeground": "#fcffe460",
+		// dropdown
+		"dropdown.background": "#3c343cee",
+		"dropdown.border": "#fcffe41a",
 		// editor
 		"editor.background": "#261d29",
+		"editor.findMatchHighlightBackground": "#ffaa20a0",
 		"editor.foreground": "#d4d4d4",
+		"editor.selectionBackground": "#b64477a0",
+		"editor.wordHighlightBackground": "#fcffe420",
 		// editor group header
 		"editorGroupHeader.tabsBackground": "#332c32",
 		"editorGroupHeader.tabsBorder": "#0e001480",
+		// editor widget
+		"editorWidget.background": "#332c32",
+		// focus border
+		"focusBorder": "#05ffd5",
+		// foreground
+		"foreground": "#fcffe4",
+		// input
+		"input.background": "#fcffe41a",
+		// input option
+		"inputOption.hoverBackground": "#05ffd540",
+		// list
+		"list.focusAndSelectionOutline": "#05ffd5",
+		"list.activeSelectionBackground": "#05ffd560",
+		"list.inactiveSelectionBackground": "#fcffe41a",
+		"list.hoverBackground": "#05ffd527", // WYSI
 		// ports
 		"ports.iconRunningProcessForeground": "#369432",
 		// sidebar

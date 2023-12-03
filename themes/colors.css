@@ -2,11 +2,24 @@ colors {
     --background-dark: #0e0014;
     --background: #261d29;
     --background-light: #332c32;
+    --background-hover: #ff5fa727;
+    --background-input: #3c343c;
 
-    --spey-green: #05FFD5;
-    --spey-red: #FF0051;
+    --foreground-light: #fcffe4;
+    --foreground-mid: #d3cfc0;
+    --foreground-dark: #bba991;
+
+    --text-dark: #9f897b;
+    --text-darker: #818172;
+    --text-darkest: #5d5d45;
+
+    --spey-green: #05ffd5;
     --spey-pink: #ff5fa7;
     --spey-pink-dark: #b64477;
+    --spey-pink-dark-selection: #b64477a0;
+    --spey-red: #ff0051;
+    --spey-orange: #ffaa20;
+    --spey-yellow: #f6ff88;
 
     --tab-border: #0e001440;
 }
