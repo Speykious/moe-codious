@@ -42,8 +42,17 @@
 		"list.activeSelectionBackground": "#05ffd560",
 		"list.inactiveSelectionBackground": "#fcffe41a",
 		"list.hoverBackground": "#05ffd527", // WYSI
+		// minimap
+		"minimap.background": "#0e0014",
+		"minimapSlider.background": "#fcffe440",
+		"minimapSlider.hoverBackground": "#fcffe460",
+		"minimapSlider.activeBackground": "#fcffe450",
 		// ports
 		"ports.iconRunningProcessForeground": "#369432",
+		// scrollbar
+		"scrollbarSlider.background": "#ff5fa780",
+		"scrollbarSlider.hoverBackground": "#ff5fa7a0",
+		"scrollbarSlider.activeBackground": "#b64477a0",
 		// sidebar
 		"sideBar.background": "#0e0014",
 		// sidebar section header
