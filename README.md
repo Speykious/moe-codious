@@ -1,6 +1,6 @@
 # Moe Codious VSCode color theme
 
-Moe color theme similar to Moe Panda, but with semantics closer to VSCode's default Dark+.
+My own Moe color theme. Currently doesn't feel very moe :(
 
 > WIP
 
