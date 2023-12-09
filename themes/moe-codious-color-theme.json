@@ -147,7 +147,7 @@
 			"scope": [
 				"comment",
 				"punctuation.semi",
-				"punctuation.terminator.statement",
+				"punctuation.terminator",
 				"punctuation.eq.toml",
 				"punctuation.squarebracket",
 				"markup.quote.markdown",
@@ -164,6 +164,8 @@
 				"punctuation.definition.tag",
 				"punctuation.accessor",
 				"punctuation.separator.dot.toml",
+				"punctuation.separator.colon.python",
+				"punctuation.separator.arguments.python",
 				"punctuation.separator.key-value",
 			],
 			"settings": {
@@ -222,6 +224,7 @@
 				"variable.other.object.property",
 				"variable.other.env",
 				"support.variable.property",
+				"meta.attribute.python",
 			],
 			"settings": {
 				"foreground": "#ff98b8",
@@ -234,6 +237,7 @@
 				"constant.language.boolean",
 				"constant.language.java",
 				"constant.language.json",
+				"entity.other.attribute-name.id",
 			],
 			"settings": {
 				"foreground": "#ffa358",
@@ -250,6 +254,8 @@
 		{
 			"scope": [
 				"entity.name.type",
+				"support.type.python",
+				"support.type.primitive.ts",
 			],
 			"settings": {
 				"foreground": "#41ffd5",
@@ -278,6 +284,7 @@
 			"scope": [
 				"entity.name.type.numeric",
 				"storage.type.primitive",
+				"support.type.primitive",
 				"markup.italic.markdown",
 			],
 			"settings": {
@@ -288,6 +295,7 @@
 			"scope": [
 				"string",
 				"punctuation.definition.string",
+				"entity.other.attribute-name.class",
 			],
 			"settings": {
 				"foreground": "#ffffaa",
@@ -314,6 +322,7 @@
 		{
 			"scope": [
 				"entity.name.function",
+				"meta.function-call.generic",
 				"support.function",
 			],
 			"settings": {
@@ -349,6 +358,7 @@
 		{
 			"scope": [
 				"entity.name.tag.yaml",
+				"variable.css",
 				"variable.other.readwrite.global.perl",
 				"variable.other.assignment.shell",
 				"variable.other.normal.shell",
@@ -368,6 +378,8 @@
 		{
 			"scope": [
 				"entity.name.tag",
+				"support.class.component",
+				"meta.selector.css",
 			],
 			"settings": {
 				"foreground": "#ff3978",
@@ -406,7 +418,9 @@
 		},
 		{
 			"scope": [
-				"meta.attribute",
+				"meta.attribute.rust",
+				"entity.other.attribute-name.pseudo-class",
+				"entity.other.attribute-name.pseudo-element",
 			],
 			"settings": {
 				"foreground": "#ffa29aa0",
