@@ -3,6 +3,7 @@
   "displayName": "moe-codious",
   "description": "Speykious's Moe Codious color theme",
   "repository": "https://github.com/Speykious/moe-codious",
+  "publisher": "speykious",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.84.0"
