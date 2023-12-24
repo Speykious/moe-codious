@@ -100,10 +100,12 @@
 		// sidebar title
 		"sideBarTitle.foreground": "#bbbbbb",
 		// status bar
-		"statusBar.background": "#b64477",
+		"statusBar.background": "#ff4b81ba",
 		// status bar item
-		"statusBarItem.remoteBackground": "#16825d",
-		"statusBarItem.remoteForeground": "#ffffff",
+		"statusBarItem.remoteBackground": "#e1e193",
+		"statusBarItem.remoteForeground": "#000000aa",
+		"statusBarItem.remoteHoverBackground": "#ffffaa",
+		"statusBarItem.remoteHoverForeground": "#000000aa",
 		// tab
 		"tab.activeBackground": "#282229",
 		"tab.activeBorder": "#282229",
