@@ -193,6 +193,14 @@
 		},
 		{
 			"scope": [
+				"keyword.control",
+			],
+			"settings": {
+				"foreground": "#b084eb"
+			}
+		},
+		{
+			"scope": [
 				"keyword.operator",
 				"punctuation.separator.pointer-access",
 				"keyword.operator.comparison.perl",
