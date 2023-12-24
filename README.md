@@ -1,6 +1,6 @@
 # Moe Codious VSCode color theme
 
-My own Moe color theme. Currently doesn't feel very moe TnT
+My own Moe color theme. It's starting to feel more moe! :D
 
 ![Screenshot](screenshot.png)
 
