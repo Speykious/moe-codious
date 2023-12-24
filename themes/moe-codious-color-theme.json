@@ -87,9 +87,9 @@
 		"problemsWarningIcon.foreground": "#ffda53",
 		"problemsInfoIcon.foreground": "#43bdff",
 		// scrollbar
-		"scrollbarSlider.background": "#ff5fa780",
-		"scrollbarSlider.hoverBackground": "#ff5fa7a0",
-		"scrollbarSlider.activeBackground": "#b64477a0",
+		"scrollbarSlider.background": "#d3cfc080",
+		"scrollbarSlider.hoverBackground": "#d3cfc0a0",
+		"scrollbarSlider.activeBackground": "#bba991a0",
 		// selection
 		"selection.background": "#41ffd580",
 		// sidebar
