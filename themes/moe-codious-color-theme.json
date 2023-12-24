@@ -2,7 +2,7 @@
 	"name": "Moe Codious",
 	"colors": {
 		// activity bar
-		"activityBar.background": "#0e0014",
+		"activityBar.background": "#110b14",
 		"activityBar.foreground": "#ffffff",
 		"activityBar.inactiveForeground": "#fcffe480",
 		// activity bar badge
@@ -22,7 +22,7 @@
 		"dropdown.background": "#3c343c",
 		"dropdown.border": "#fcffe41a",
 		// editor
-		"editor.background": "#261d29",
+		"editor.background": "#282229",
 		"editor.findMatchHighlightBackground": "#ffaa20a0",
 		"editor.foreground": "#fcffe4",
 		"editor.lineHighlightBackground": "#fcffe41a",
@@ -40,8 +40,8 @@
 		// editor cursor
 		"editorCursor.foreground": "#ff5fa7",
 		// editor group header
-		"editorGroupHeader.tabsBackground": "#332c32",
-		"editorGroupHeader.tabsBorder": "#0e001480",
+		"editorGroupHeader.tabsBackground": "#333133",
+		"editorGroupHeader.tabsBorder": "#110b1480",
 		// editor gutter
 		"editorGutter.addedBackground": "#41ffd5ca",
 		"editorGutter.deletedBackground": "#ff4b82ca",
@@ -55,7 +55,7 @@
 		"editorOverviewRuler.modifiedForeground": "#ffcc95ca",
 		"editorOverviewRuler.warningForeground": "#ffda53",
 		// editor widget
-		"editorWidget.background": "#332c32",
+		"editorWidget.background": "#333133",
 		// focus border
 		"focusBorder": "#41ffd5",
 		// foreground
@@ -74,7 +74,7 @@
 		"list.errorForeground": "#ec5135",
 		"list.warningForeground": "#ffda53",
 		// minimap
-		"minimap.background": "#0e0014",
+		"minimap.background": "#110b14",
 		"minimapSlider.background": "#fcffe440",
 		"minimapSlider.hoverBackground": "#fcffe460",
 		"minimapSlider.activeBackground": "#fcffe450",
@@ -93,7 +93,7 @@
 		// selection
 		"selection.background": "#41ffd580",
 		// sidebar
-		"sideBar.background": "#0e0014",
+		"sideBar.background": "#110b14",
 		// sidebar section header
 		"sideBarSectionHeader.background": "#00000000",
 		"sideBarSectionHeader.border": "#cccccc33",
@@ -105,13 +105,13 @@
 		"statusBarItem.remoteBackground": "#16825d",
 		"statusBarItem.remoteForeground": "#ffffff",
 		// tab
-		"tab.activeBackground": "#261d29",
-		"tab.activeBorder": "#261d29",
+		"tab.activeBackground": "#282229",
+		"tab.activeBorder": "#282229",
 		"tab.activeBorderTop": "#41ffd5",
-		"tab.border": "#0e001440",
-		"tab.inactiveBackground": "#332c32",
+		"tab.border": "#110b1440",
+		"tab.inactiveBackground": "#333133",
 		"tab.lastPinnedBorder": "#cccccc33",
-		"tab.unfocusedActiveBorder": "#261d29",
+		"tab.unfocusedActiveBorder": "#282229",
 		// terminal
 		"terminal.ansiBlue": "#0e639c",
 		"terminal.ansiBrightBlack": "#818172",
