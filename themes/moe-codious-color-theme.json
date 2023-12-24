@@ -184,6 +184,7 @@
 			"scope": [
 				"keyword",
 				"keyword.operator.new",
+				"keyword.operator.expression.new",
 				"markup.underline.link.markdown",
 			],
 			"settings": {
@@ -342,6 +343,8 @@
 			"scope": [
 				"storage.modifier.mut.rust",
 				"support.type.property-name.table.toml",
+				"keyword.operator.expression.typeof",
+				"keyword.operator.expression.nameof",
 			],
 			"settings": {
 				"foreground": "#ff6355",
