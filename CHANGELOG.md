@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "moe-codious" extension will be documented in this file.
+## 0.3.2
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Added this actually (somewhat) meaningful changelog because I forgot to add it in previous versions
 
-## [Unreleased]
+## 0.3.1
 
-- Initial release
+- Added an extension icon
+
+## 0.3.0
+
+- Yeah the theme is basically done by now

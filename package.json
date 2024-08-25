@@ -4,7 +4,7 @@
   "description": "Speykious's Moe Codious color theme",
   "repository": "https://github.com/Speykious/moe-codious",
   "publisher": "speykious",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "icon": "moe-codious.png",
   "engines": {
     "vscode": "^1.84.0"
