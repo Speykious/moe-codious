@@ -136,6 +136,12 @@
 		"textLink.foreground": "#ff5fa7",
 		"textLink.activeForeground": "#ff5fa7",
 	},
+	"semanticTokenColors": {
+		"macro": {
+			"foreground": "#ff6355",
+			"fontStyle": "bold",
+		}
+	},
 	"tokenColors": [
 		{
 			"scope": [
