@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.3.3
+
+- Fix macros being the wrong color when semantic highlighting is enabled
+
 ## 0.3.2
 
 - Added this actually (somewhat) meaningful changelog because I forgot to add it in previous versions
